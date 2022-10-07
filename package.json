@@ -1,6 +1,6 @@
 {
-  "name": "route-parser",
-  "version": "0.0.6",
+  "name": "@supertiger/route-parser",
+  "version": "0.0.7",
   "description": "A isomorphic, bullet-proof, ninja-ready route parsing, matching, and reversing library for Javascript in Node and the browser. ",
   "type": "module",
   "keywords": [
@@ -12,15 +12,11 @@
     "match"
   ],
   "homepage": "http://github.com/rcs/route-parser",
-  "author": {
-    "name": "Ryan Sorensen",
-    "email": "rcsorensen@gmail.com",
-    "url": "https://github.com/rcs"
-  },
+  "author": "Ryan Sorensen <rcsorensen@gmail.com> (https://github.com/rcs)",
   "main": "index.mjs",
   "repository": {
     "type": "git",
-    "url": "https://github.com/rcs/route-parser.git"
+    "url": "git+https://github.com/rcs/route-parser.git"
   },
   "bugs": {
     "url": "http://github.com/rcs/route-parser/issues",
